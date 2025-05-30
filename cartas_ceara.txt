@@ -1,0 +1,11 @@
+Nome;Populacao;Area_km2;PIB_R$_bi;Pontos_Turisticos;Densidade_hab_km2
+Fortaleza;2703391;314.93;73.43;15;8655
+Caucaia;368918;1223.25;10.4;8;301
+Juazeiro do Norte;278264;248.83;5.1;12;1118
+Maracanaú;230986;106.65;12.3;6;2165
+Sobral;212437;2068.47;5.4;9;103
+Jijoca de Jericoacoara;25555;201.86;0.3;20;127
+Aquiraz;84737;480.24;3.8;10;176
+São Gonçalo do Amarante;54021;842.64;8.6;5;64
+Iguatu;102251;992.21;1.9;7;103
+Aracati;78752;1227.20;1.1;15;64
